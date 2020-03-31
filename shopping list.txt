@@ -10,10 +10,6 @@ jianshu
 doudou
 baidu
 
-<<<<<<< HEAD
-
-=======
 maoyan
 163
 dahua
->>>>>>> e4001e849642ff977184dfe860ba13274caa8703
