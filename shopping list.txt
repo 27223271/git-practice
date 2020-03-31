@@ -7,9 +7,5 @@ qq
 sohu
 jianshu
 
-<<<<<<< HEAD
 doudou
-=======
-
 baidu
->>>>>>> 5753e3fd775c8efd0e4cc8ac57241ab657abd008
